@@ -1,4 +1,4 @@
-package com.example.qlikmysql;
+package com.example.tutorials;
 
 import java.util.Iterator;
 import java.util.LinkedList;

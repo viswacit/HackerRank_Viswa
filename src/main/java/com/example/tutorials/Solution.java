@@ -1,4 +1,4 @@
-package com.example.qlikmysql;
+package com.example.tutorials;
 
 import java.io.BufferedReader;
 import java.io.File;

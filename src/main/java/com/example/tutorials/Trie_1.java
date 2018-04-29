@@ -1,4 +1,4 @@
-package com.example.qlikmysql;
+package com.example.tutorials;
 
 //Java Program to find the longest common
 //prefix of the given words

@@ -1,4 +1,4 @@
-package com.example.qlikmysql;
+package com.example.tutorials;
 
 public class StringDemo {
 	
