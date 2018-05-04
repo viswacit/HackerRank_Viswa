@@ -62,8 +62,7 @@ public class Solution1 {
 	    }
         
         public static void main(String[] args) throws IOException{
-            /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
-            //String line = br.readLine();
+           
         	File file = new File("C:\\Users\\vnagama1\\Desktop\\test2.txt");
         	BufferedReader br = new BufferedReader(new FileReader(file));
         	String line = br.readLine();
